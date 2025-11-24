@@ -51,7 +51,7 @@ Each service runs independently, ensuring:
 ## Technical Stack
 
 ### Backend
-- Node.js / NestJS
+- Java Springboot
 - PostgreSQL
 - Redis (caching & queues)
 - REST API (separate admin & tenant services)
