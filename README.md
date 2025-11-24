@@ -1,4 +1,4 @@
-<img width="3584" height="1184" alt="Gemini_Generated_Image_kv2bmzkv2bmzkv2b" src="https://github.com/user-attachments/assets/09020cb9-5828-4973-91f1-4046230e56db" />
+<img width="2759" height="1172" alt="Sahaja Living" src="https://github.com/user-attachments/assets/bea46167-3609-4b7d-873c-5b257bfa540b" />
 
 # Sahaja Living
 ### Modern Property & Tenant Management System
